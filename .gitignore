@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch checkpoints (optional)
+*.pt
+*.pth
+
+# OS files
+.DS_Store
